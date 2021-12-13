@@ -1,0 +1,23 @@
+img{
+    border: 2px darkblue;
+}
+section{
+    padding: 15px;
+    background-color:dimgrey ;
+    font-family: sans-serif;
+}
+p{
+    border: steelblue solid 10px;
+    padding: 10px;
+    margin: 2px 5px;
+}
+
+table{
+
+}
+
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: whitesmoke;
+}
